@@ -1,8 +1,8 @@
-Package: com.arichornlover.uyouenhanced
+Package: com.arichorn.uyouenhanced
 Name: uYouEnhanced
 Architecture: iphoneos-arm
 Description: An expanded version of uYouPlus
-Maintainer: arichornlover
+Maintainer: arichorn
 Author: qnblackcat
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), com.miro.uyou
